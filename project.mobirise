@@ -58,7 +58,8 @@
         "meta_descr": "The Solution the Businesses by Providing Websites in Simply Creative and Quality yet Affordable.",
         "header_custom": "",
         "footer_custom": "",
-        "html_before": ""
+        "html_before": "",
+        "meta_image": "@PROJECT_PATH@/assets/images/jazercode%20fb%20profile%20pic-600x600.jpg"
       },
       "components": [
         {
