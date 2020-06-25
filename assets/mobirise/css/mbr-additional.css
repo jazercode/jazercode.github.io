@@ -1175,7 +1175,7 @@ section.lazy-placeholder:after {
 .cid-s2OYnGgysB .card-box {
   z-index: 1;
   position: relative;
-  background-color: rgba(15, 118, 153, 0.6);
+  background-color: rgba(70, 80, 82, 0.6);
   height: 100%;
   width: 100%;
   pointer-events: none;
@@ -1216,26 +1216,6 @@ section.lazy-placeholder:after {
 }
 .cid-s2OYnGgysB .mbr-section-title {
   color: #efefef;
-}
-.cid-s2OZqJBmOv {
-  padding-top: 0px;
-  padding-bottom: 0px;
-  background-color: #232323;
-}
-.cid-s2OZqJBmOv h4 {
-  font-weight: 500;
-  margin-bottom: 0;
-  text-align: left;
-}
-.cid-s2OZqJBmOv p {
-  color: #767676;
-  text-align: left;
-}
-.cid-s2OZqJBmOv .card-box {
-  padding-top: 2rem;
-}
-.cid-s2OZqJBmOv .card-wrapper {
-  height: 100%;
 }
 .cid-s2P0rd9fiW {
   padding-top: 90px;
