@@ -35,11 +35,11 @@ body {
 }
 .display-5 {
   font-family: 'Rubik', sans-serif;
-  font-size: 1.5rem;
+  font-size: 1.2rem;
   font-display: swap;
 }
 .display-5 > .mbr-iconfont {
-  font-size: 2.4rem;
+  font-size: 1.92rem;
 }
 .display-7 {
   font-family: 'Raleway', sans-serif;
@@ -71,9 +71,9 @@ body {
     line-height: calc( 1.4 * (1.07rem + (1.2 - 1.07) * ((100vw - 20rem) / (48 - 20))));
   }
   .display-5 {
-    font-size: 1.2rem;
-    font-size: calc( 1.175rem + (1.5 - 1.175) * ((100vw - 20rem) / (48 - 20)));
-    line-height: calc( 1.4 * (1.175rem + (1.5 - 1.175) * ((100vw - 20rem) / (48 - 20))));
+    font-size: 0.96rem;
+    font-size: calc( 1.07rem + (1.2 - 1.07) * ((100vw - 20rem) / (48 - 20)));
+    line-height: calc( 1.4 * (1.07rem + (1.2 - 1.07) * ((100vw - 20rem) / (48 - 20))));
   }
 }
 /* Buttons */
@@ -1176,10 +1176,51 @@ section.lazy-placeholder:after {
 .cid-s2TDtZQpdu DIV {
   color: #ff3366;
 }
+.cid-s36e2Z6rKe {
+  padding-top: 60px;
+  padding-bottom: 60px;
+  position: relative;
+  background-color: #f9f9f9;
+}
+.cid-s36e2Z6rKe .card {
+  border-radius: 0px;
+  margin-bottom: -1px;
+}
+.cid-s36e2Z6rKe .card .card-header {
+  border-radius: 0px;
+  border: 0px;
+  padding: 0;
+}
+.cid-s36e2Z6rKe .card .card-header a.panel-title {
+  margin-bottom: 0;
+  font-style: normal;
+  font-weight: 500;
+  display: block;
+  text-decoration: none !important;
+  margin-top: -1px;
+  line-height: normal;
+}
+.cid-s36e2Z6rKe .card .card-header a.panel-title:focus {
+  text-decoration: none !important;
+}
+.cid-s36e2Z6rKe .card .card-header a.panel-title h4 {
+  padding: 1.3rem 2rem;
+  border: 1px solid #dfdfdf;
+  margin-bottom: 0;
+}
+.cid-s36e2Z6rKe .card .card-header a.panel-title h4 .sign {
+  padding-right: 1rem;
+}
+.cid-s36e2Z6rKe .card .panel-body {
+  color: #767676;
+}
+.cid-s36e2Z6rKe .panel-text {
+  color: #cc2952;
+}
 .cid-s35SSWpZ0X {
-  padding-top: 120px;
+  padding-top: 0px;
   padding-bottom: 120px;
-  background-image: url("../../../assets/images/mbr-1920x1275.jpg");
+  background-color: #ffffff;
 }
 .cid-s35SSWpZ0X .mbr-section-subtitle {
   color: #cc2952;
