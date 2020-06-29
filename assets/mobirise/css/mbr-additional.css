@@ -1113,8 +1113,6 @@ section.lazy-placeholder:after {
   color: #c1c1c1 !important;
 }
 .cid-s3dTMNsNZk {
-  padding-top: 120px;
-  padding-bottom: 90px;
   background-image: url("../../../assets/images/background4.jpg");
 }
 .cid-s3dTMNsNZk H3 {
@@ -1172,42 +1170,19 @@ section.lazy-placeholder:after {
   color: #ff3366;
 }
 .cid-s35SSWpZ0X {
-  padding-top: 0px;
+  padding-top: 45px;
   padding-bottom: 0px;
-  background-color: #ffffff;
+  background-color: #efefef;
 }
 .cid-s35SSWpZ0X .mbr-section-subtitle {
   color: #cc2952;
+  text-align: center;
 }
 .cid-s35SSWpZ0X .btn {
   margin: 0 0 .5rem 0;
 }
 .cid-s35SSWpZ0X H2 {
   color: #cc2952;
-}
-.cid-s2U6XvPc07 {
-  padding-top: 90px;
-  padding-bottom: 90px;
-  background-color: #cccccc;
-}
-.cid-s2U6XvPc07 .title {
-  margin-bottom: 2rem;
-}
-.cid-s2U6XvPc07 .mbr-section-subtitle {
-  color: #767676;
-}
-.cid-s2U6XvPc07 a:not([href]):not([tabindex]) {
-  color: #fff;
-  border-radius: 3px;
-}
-.cid-s2U6XvPc07 a.btn-white:not([href]):not([tabindex]) {
-  color: #333;
-}
-.cid-s2U6XvPc07 textarea.form-control {
-  min-height: 188px;
-}
-.cid-s2U6XvPc07 H2 {
-  color: #232323;
 }
 .cid-s2TnfIUaSL {
   padding-top: 105px;
